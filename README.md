@@ -32,15 +32,15 @@ This project achieved the first rank at the provincial level by implementing an 
 The project was officially recognized in the National Research Centers Software Competition.
 
 <p align="center">
-  <img src="certificates/photo_1.jpg" width="700">
+  <img src="Certificates/photo_1.jpg" width="700">
 </p>
 
 <p align="center">
-  <img src="certificates/photo_1.jpg" width="700">
+  <img src="Certificates/photo_1.jpg" width="700">
 </p>
 
 <p align="center">
-  <img src="certificates/photo_1.jpg" width="700">
+  <img src="Certificates/photo_1.jpg" width="700">
 </p>
 
 ## Project Screenshots
