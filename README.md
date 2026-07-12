@@ -36,11 +36,11 @@ The project was officially recognized in the National Research Centers Software 
 </p>
 
 <p align="center">
-  <img src="Certificates/photo_1.jpg" width="700">
+  <img src="Certificates/photo_2.jpg" width="700">
 </p>
 
 <p align="center">
-  <img src="Certificates/photo_1.jpg" width="700">
+  <img src="Certificates/photo_3.jpg" width="700">
 </p>
 
 ## Project Screenshots
