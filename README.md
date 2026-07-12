@@ -30,19 +30,19 @@ This project achieved the first rank at the provincial level by implementing an 
 ## Project Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot (1).png" width="700">
+  <img src="screenshots/Screenshot (1).png" width="700">
 </p>
 
 <p align="center">
-  <img src="screenshots/screenshot (2).png" width="700">
+  <img src="screenshots/Screenshot (2).png" width="700">
 </p>
 
 <p align="center">
-  <img src="screenshots/screenshot (3).png" width="700">
+  <img src="screenshots/Screenshot (3).png" width="700">
 </p>
 
 <p align="center">
-  <img src="screenshots/screenshot (4).png" width="700">
+  <img src="screenshots/Screenshot (4).png" width="700">
 </p>
 
 ## Certificates
@@ -50,11 +50,11 @@ This project achieved the first rank at the provincial level by implementing an 
 The project was officially recognized in the National Research Centers Software Competition.
 
 <p align="center">
-  <img src="certificates/photo_2.jpg" width="700">
+  <img src="Certificates/photo_2.jpg" width="700">
 </p>
 
 <p align="center">
-  <img src="certificates/photo_1.jpg" width="700">
+  <img src="Certificates/photo_1.jpg" width="700">
 </p>
 
 ## Author
