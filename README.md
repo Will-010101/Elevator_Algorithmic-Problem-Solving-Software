@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Earthquake Detection and Alert System is a hardware-software integrated project developed in **2021** for the National Research Centers Software Competition.
+The Earthquake Detection and Alert System is a hardware-software integrated project developed for the National Research Centers Software Competition.
 
 The project was designed to simulate earthquake detection, monitor seismic activity, and provide real-time alerts by integrating electronic circuit simulation, microcontroller programming, and desktop software communication.
 
