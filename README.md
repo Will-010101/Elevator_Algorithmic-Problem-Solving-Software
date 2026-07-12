@@ -1,69 +1,82 @@
-# Elevator Algorithmic Thinking Software
+# Earthquake Detection and Alert System
 
 ## Overview
 
-Elevator is a C# Windows application developed for the National Research Centers Software Competition in the Algorithmic Thinking category.
+The Earthquake Detection and Alert System is a hardware-software integrated project developed in **2021** for the National Research Centers Software Competition.
 
-The project was designed to solve a computational elevator scheduling problem presented in the competition using algorithm design, logical analysis, and programming techniques.
+The project was designed to simulate earthquake detection, monitor seismic activity, and provide real-time alerts by integrating electronic circuit simulation, microcontroller programming, and desktop software communication.
 
 ## Achievement
 
-🏆 **1st Place - Provincial Level**  
+🏆 **1st Place – Provincial Level (2021)**  
 **National Research Centers Software Competition**  
-**Category:** Windows Programming - Algorithmic Thinking
+**Category:** Hardware Programming
 
-This project achieved the first rank at the provincial level by implementing an algorithm-based solution for the given competition problem.
+The project achieved first place at the provincial level for its integrated hardware and software approach to earthquake detection, monitoring, and alert simulation.
+
+## Project Information
+
+- **Year:** 2021
+- **Competition:** National Research Centers Software Competition
+- **Category:** Hardware Programming
+- **Platform:** Windows
+- **Programming Languages:** C, Processing
+- **Simulation:** Proteus
 
 ## Technologies
 
-- C#
-- .NET Framework
-- Windows Forms
+- Arduino
+- Proteus
+- Processing
+- VSPE
+- Serial Communication
 
 ## Features
 
-- Algorithm-based solution for elevator scheduling problems
-- Windows desktop graphical user interface
-- Computational problem solving based on defined constraints
-- Implementation of logical and algorithmic concepts in software development
+- Earthquake detection simulation
+- Real-time seismic monitoring
+- Alert notification system
+- Hardware and software integration
+- Serial communication between microcontroller and desktop application
+- Electronic circuit simulation using Proteus
 
+## Project Architecture
+
+- **Hardware Simulation:** Proteus
+- **Microcontroller Programming:** C (Arduino)
+- **Desktop Application:** Processing
+- **Communication:** VSPE (Virtual Serial Port Emulator)
 
 ## Certificates
 
-The project was officially recognized in the National Research Centers Software Competition.
-
 <p align="center">
-  <img src="Certificates/photo_2.jpg" width="700">
+  <img src="certificates/photo(1).png" width="700">
 </p>
 
 <p align="center">
-  <img src="Certificates/photo_1.jpg" width="700">
-</p>
-
-<p align="center">
-  <img src="Certificates/photo_3.jpg" width="700">
+  <img src="certificates/photo(2).png" width="700">
 </p>
 
 
 ## Project Screenshots
 
 <p align="center">
-  <img src="screenshots/Screenshot (1).png" width="700">
+  <img src="screenshots/Screenshot(1).png" width="700">
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshot (2).png" width="700">
+  <img src="screenshots/Screenshot(2).png" width="700">
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshot (3).png" width="700">
+  <img src="screenshots/Screenshot(3).png" width="700">
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshot (4).png" width="700">
+  <img src="screenshots/Screenshot(4).png" width="700">
 </p>
 
 
 ## Author
 
-Developed as a competitive programming and software engineering project using C#.
+Developed as an educational engineering project integrating embedded systems, electronic circuit simulation, and desktop software.
