@@ -30,19 +30,19 @@ This project achieved the first rank at the provincial level by implementing an 
 ## Project Screenshots
 
 <p align="center">
-  <img src="screenshots/Screenshot(1).png" width="700">
+  <img src="screenshots/screenshot (1).png" width="700">
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshot(2).png" width="700">
+  <img src="screenshots/screenshot (2).png" width="700">
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshot(3).png" width="700">
+  <img src="screenshots/screenshot (3).png" width="700">
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshot(4).png" width="700">
+  <img src="screenshots/screenshot (4).png" width="700">
 </p>
 
 ## Certificates
